@@ -40,6 +40,8 @@ python main.py
 
 
 📷 Screenshots
+
+
 ![Screenshot 2025-01-20 140203](https://github.com/user-attachments/assets/3ee7e1f9-8f90-4d3c-92d2-2a3df84cef09)
 ![Screenshot 2025-01-20 140240](https://github.com/user-attachments/assets/8e0e6f96-d725-4ab2-b3a5-02dc90a8bcd0)
 ![Screenshot 2025-01-20 140325](https://github.com/user-attachments/assets/d974de4b-e362-4918-91c9-124fd381a9b8)
