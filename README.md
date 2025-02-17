@@ -12,6 +12,7 @@ This project is designed to assist in identifying and tracking missing persons u
 - **Secure Login System** – Restricts access to authorized users.
 
 🚀 Installation
+
 Follow these steps to set up the project locally:
 
 
@@ -27,15 +28,18 @@ cd Finding-missing-person-using-AI
 
 
 3️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 
 4️⃣ Set Up the Database
+
 Install PostgreSQL and create a database.
 Update the database configuration in the project files.
 Run migrations if required.
 
 5️⃣ Run the Application
+
 python main.py
 
 
@@ -48,6 +52,7 @@ python main.py
 ![Screenshot 2025-01-20 140344](https://github.com/user-attachments/assets/80875b71-5ee4-48ea-9d2f-3624d215fe2e)
 
 🎯 Usage!
+
 Register missing cases using the GUI.
 Upload images for comparison and let the AI match them.
 Admins can review, update, or delete cases from the dashboard.
@@ -55,6 +60,7 @@ Users can report found persons through the interface
 
 
 📜 License
+
 This project is for educational and research purposes only. Commercial use is not allowed.
 
 ⭐ If you find this project useful, please star the repository! ⭐
