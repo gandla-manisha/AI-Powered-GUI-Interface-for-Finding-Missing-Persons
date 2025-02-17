@@ -11,11 +11,12 @@ This project is designed to assist in identifying and tracking missing persons u
 - **Admin Dashboard** – View, manage, and delete cases securely.
 - **Secure Login System** – Restricts access to authorized users.
 
-## 🚀 Installation
+🚀 Installation
 Follow these steps to set up the project locally:
 
+
 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/your-username/Finding-missing-person-using-AI.git
 cd Finding-missing-person-using-AI
 
@@ -25,13 +26,16 @@ cd Finding-missing-person-using-AI
 2️⃣ Set Up a Virtual Environment
 
 
+3️⃣ Install Dependencies
+pip install -r requirements.txt
 
-Set Up the Database
+
+4️⃣ Set Up the Database
 Install PostgreSQL and create a database.
 Update the database configuration in the project files.
 Run migrations if required.
 
-Run the Application
+5️⃣ Run the Application
 python main.py
 
 
