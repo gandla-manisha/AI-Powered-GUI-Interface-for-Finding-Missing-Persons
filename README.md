@@ -32,17 +32,19 @@ Run migrations if required.
 # Run the Application
 python main.py
 
-### 🎯 Usage
+![Screenshot 2025-01-20 140203](https://github.com/user-attachments/assets/3ee7e1f9-8f90-4d3c-92d2-2a3df84cef09)
+![Screenshot 2025-01-20 140240](https://github.com/user-attachments/assets/8e0e6f96-d725-4ab2-b3a5-02dc90a8bcd0)
+![Screenshot 2025-01-20 140325](https://github.com/user-attachments/assets/d974de4b-e362-4918-91c9-124fd381a9b8)
+![Screenshot 2025-01-20 140344](https://github.com/user-attachments/assets/80875b71-5ee4-48ea-9d2f-3624d215fe2e)
+
+### 🎯 Usage!
 Register missing cases using the GUI.
 Upload images for comparison and let the AI match them.
 Admins can review, update, or delete cases from the dashboard.
 Users can report found persons through the interface
 
 ## 📷 Screenshots
-![Screenshot 2025-01-20 140203](https://github.com/user-attachments/assets/89b25fd6-8166-4f8c-b50a-d0f9054440f4)
-![Screenshot 2025-01-20 140240](https://github.com/user-attachments/assets/d7187d14-8844-4b1f-b638-f366dadbc1cc)
-![Screenshot 2025-01-20 140325](https://github.com/user-attachments/assets/80ab04f1-5afc-4ea4-80ef-5d4ee906f93e)
-![Screenshot 2025-01-20 140344](https://github.com/user-attachments/assets/21bcd261-4fb4-4fb0-a6de-f4bd39f709a2)
+
 
 
 📜 License
