@@ -19,6 +19,7 @@ Follow these steps to set up the project locally:
 1️⃣ Clone the Repository
 
 git clone https://github.com/your-username/Finding-missing-person-using-AI.git
+
 cd Finding-missing-person-using-AI
 
 
@@ -35,7 +36,9 @@ pip install -r requirements.txt
 4️⃣ Set Up the Database
 
 Install PostgreSQL and create a database.
+
 Update the database configuration in the project files.
+
 Run migrations if required.
 
 5️⃣ Run the Application
